@@ -1,0 +1,31 @@
+.jumbotron{
+  background-image: url("/public/foto/banner/76_378.jpg?t=1563902326" alt="76");
+}
+.carousel img{
+
+height: 300px;
+}
+.logo{
+  border-radius: 600px;
+  width: 60px
+}
+.titulo1{
+  background-color: green;
+  color: white;
+  text-align: center;
+}
+.img1{
+  max-height: 500px;
+}
+.img2{
+  max-height: 478px;
+}
+.img3{
+  max-height: 478px;
+}
+h5{
+  text-align: center;
+}
+.logodeabajo{
+  border-radius: 40px;
+}
